@@ -1,0 +1,6 @@
+# Word-Count-and-Hypothesis-Testing
+
+General Requirements. You must use Python version 3.6 or later, Spark 2.4.4 or later.  You will use a cluster for this assignment that comes with Spark already, but you may start development using Spark on your own or non-cluster machines.  Everything between input and output must occur within Spark RDDs.
+
+
+Python Libraries. The only data science, machine learning, or statistics libraries that you may import are those that are listed in this assignment. Of these libraries, you may not use any subcomponents that specifically implement a concept which the instructions indicate you should implement (e.g. hypothesis testing, linear regression, collaborative filtering).  Other Python default, non-data science libraries (e.g. sys, basic IO, re, random,csv) may be used -- ask if unsure. All provided method names and classes must be used as provided with the same parameters. However, you may also use additional methods to keep your code clean.  The intention is for you to implement the algorithms we have gone over and problem solve in order to best understand the concepts of this course and their practical application. Current allowed data science-related libraries include:
